@@ -162,7 +162,7 @@ export function ZuziaFetchDocs() {
                 <div className="flex-1 flex items-center gap-4">
                   <div className="flex items-center gap-3">
                     <h1 className="text-xl font-bold text-slate-900 dark:text-slate-100">@ZuziaDev/Fetch</h1>
-                    <Badge className="bg-blue-100 text-blue-700 dark:bg-blue-900 dark:text-blue-300">v2.1.0</Badge>
+                    <Badge className="bg-blue-100 text-blue-700 dark:bg-blue-900 dark:text-blue-300">v2.1.5</Badge>
                   </div>
                   <div className="flex-1 max-w-md">
                     <div className="relative">
