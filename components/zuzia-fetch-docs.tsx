@@ -646,7 +646,7 @@ const config: ZuziaFetchConfig = {
                             <div>
                               <h4 className="font-semibold mb-3 text-slate-900 dark:text-slate-100">Axios</h4>
                               <CodeBlock>
-                                {`import axios from 'axios';
+                                {`const axios = require("axios");
 
 const api = axios.create({
   baseURL: 'https://api.example.com',
