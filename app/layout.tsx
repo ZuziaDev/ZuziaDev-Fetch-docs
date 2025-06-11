@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Zuzia.Fetch - Modern HTTP Client Documentation",
   description: "Powerful, feature-rich HTTP client with advanced capabilities for modern JavaScript applications",
-    generator: 'v0.dev'
+    generator: 'zuzia.dev'
 }
 
 export default function RootLayout({
