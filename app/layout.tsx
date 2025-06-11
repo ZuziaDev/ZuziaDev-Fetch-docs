@@ -6,7 +6,7 @@ import "./globals.css"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Zuzia.Fetch - Modern HTTP Client Documentation",
+  title: "@ZuziaDev/Fetch - Modern HTTP Client Documentation",
   description: "Powerful, feature-rich HTTP client with advanced capabilities for modern JavaScript applications",
     generator: 'zuzia.dev'
 }
